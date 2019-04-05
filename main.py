@@ -1,11 +1,11 @@
 
 
 
-import opc03, opc04, opc05
+import opc04, opc05, opc06
 
 n = 4
 verbose = True
 
-opc03.func(n,verbose)
 opc04.func(n,verbose)
 opc05.func(n,verbose)
+opc06.func(n,verbose)
